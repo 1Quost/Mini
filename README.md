@@ -57,7 +57,8 @@ Logining in admin:
 
 Loading scene for 5s:
 
-![image](https://github.com/user-attachments/assets/956efd11-6543-48f8-a93c-2ebebf877ca3)
+![image](https://github.com/user-attachments/assets/54f17b24-1020-44b1-8824-b6a914188e45)
+
 
 Tabs 
 
